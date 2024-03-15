@@ -1,1 +1,2 @@
-
+This datasets folder contains all the raw files we collected from Johns Hopkins University's website.
+After collecting we preprocessed the data and made it suitable for us. So that we can directly use those data in our project.
